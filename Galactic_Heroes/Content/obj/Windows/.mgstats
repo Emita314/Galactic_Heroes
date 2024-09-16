@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Score.spritefont","C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/bin/Windows/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,1,597329
+"C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Enemy.jpg","C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/bin/Windows/Enemy.xnb","TextureProcessor","Texture2DContent",254677,6553685,0,2969361

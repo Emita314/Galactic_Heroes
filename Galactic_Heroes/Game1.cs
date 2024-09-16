@@ -2,8 +2,10 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using SharpDX.Direct3D9;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using Keyboard = Microsoft.Xna.Framework.Input.Keyboard;
 
 
@@ -46,6 +48,17 @@ namespace Galactic_Heroes
         private int _score = 0; // Puntaje del jugador
         private SpriteFont _font; // Fuente para dibujar el puntaje
 
+        int naveVida = 100;  // Vida inicial de la nave
+        int naveMaxVida = 100;
+
+        // Variables de Game Over
+        bool isGameOver = false;
+        SpriteFont font;
+
+        // Opción para reiniciar o salir del juego
+        bool retrySelected = true; // Al principio, está seleccionado "Retry"
+
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -81,6 +94,8 @@ namespace Galactic_Heroes
             _backgroundTexture = Content.Load<Texture2D>("Fondo_universo_demo");
             _enemyTexture = Content.Load<Texture2D>("Enemy"); // Cargar textura del enemigo
             _font = Content.Load<SpriteFont>("Score");
+            // Cargar la fuente para texto
+            font = Content.Load<SpriteFont>("Game_Over");
         }
 
         private void UpdateCamera()
@@ -206,7 +221,42 @@ namespace Galactic_Heroes
             // Guardar el estado del teclado para el próximo frame
             _previousKeyboardState = keyboardState;
 
-            base.Update(gameTime);
+            // Si es Game Over, manejar las opciones de reinicio o salida
+            if (isGameOver)
+            {
+                if (Keyboard.GetState().IsKeyDown(Keys.Up) || Keyboard.GetState().IsKeyDown(Keys.Down))
+                {
+                    retrySelected = !retrySelected;  // Alternar entre "Retry" y "Exit"
+                }
+
+                if (Keyboard.GetState().IsKeyDown(Keys.Enter))
+                {
+                    if (retrySelected)
+                    {
+                        // Reiniciar juego
+                        naveVida = naveMaxVida;
+                        isGameOver = false;
+                        _navePosition = _navePosition = new Vector2(
+                            _mapSize.X / 2, // Centrar la nave en el mapa
+                            _mapSize.Y / 2
+                        ); // Restablecer posición de la nave
+                        _enemigos.Clear();
+                        _proyectiles.Clear();
+                        _score = 0;
+                    }
+                    else
+                    {
+                        // Cerrar juego
+                        Exit();
+                    }
+                }
+
+                return; // No actualizar el resto si estamos en pantalla de Game Over
+
+                base.Update(gameTime);
+            }
+
+            CheckCollisions();
         }
 
         protected override void Draw(GameTime gameTime)
@@ -249,8 +299,48 @@ namespace Galactic_Heroes
             _spriteBatch.Begin();
             _spriteBatch.DrawString(_font, $"Puntos: {_score}", new Vector2(10, 10), Color.White);
             _spriteBatch.End();
+            _spriteBatch.Begin();
+            // Dibujar la barra de vida
+            DrawHealthBar();
 
+            // Dibujar Game Over si aplica
+            if (isGameOver)
+            {
+                _spriteBatch.DrawString(_font, "GAME OVER", new Vector2(400, 200), Color.Red);
+                _spriteBatch.DrawString(_font, "Retry", new Vector2(400, 250), retrySelected ? Color.Yellow : Color.White);
+                _spriteBatch.DrawString(_font, "Exit", new Vector2(400, 300), retrySelected ? Color.White : Color.Yellow);
+            }
+            _spriteBatch.End();
             base.Draw(gameTime);
+        }
+
+        // Verificar colisiones entre nave y enemigos
+        private void CheckCollisions()
+        {
+            foreach (var enemigo in _enemigos.ToList())
+            {
+                if (Vector2.Distance(_navePosition, enemigo.Position) < (enemigo.GetCollisionRadius() + (_naveTexture.Width / 2 * _naveScale)))
+                {
+                    naveVida -= 10;
+                    if (naveVida <= 0)
+                    {
+                        isGameOver = true;
+                    }
+                    _enemigos.Remove(enemigo);
+                }
+            }
+        }
+        private void DrawHealthBar()
+        {
+            int barWidth = 200;
+            int barHeight = 20;
+            float healthPercent = (float)naveVida / naveMaxVida;
+
+            Texture2D healthBarTexture = new Texture2D(GraphicsDevice, 1, 1);
+            healthBarTexture.SetData(new[] { Color.White });
+
+            _spriteBatch.Draw(healthBarTexture, new Rectangle(50, 50, barWidth, barHeight), Color.Red);
+            _spriteBatch.Draw(healthBarTexture, new Rectangle(50, 50, (int)(barWidth * healthPercent), barHeight), Color.Green);
         }
     }
 

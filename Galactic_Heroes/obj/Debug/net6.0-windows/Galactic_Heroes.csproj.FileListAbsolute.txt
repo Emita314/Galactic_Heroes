@@ -40,3 +40,5 @@ C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\obj\Debug\net6.0-w
 C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\bin\Debug\net6.0-windows\Content\Fondo_universo_demo.xnb
 C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\bin\Debug\net6.0-windows\Content\Enemy.xnb
 C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\bin\Debug\net6.0-windows\Content\Score.xnb
+C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\obj\Debug\net6.0-windows\Galactic_Heroes.sourcelink.json
+C:\Users\EMANUEL\source\repos\Galactic_Heroes\Galactic_Heroes\bin\Debug\net6.0-windows\Content\Game_Over.xnb

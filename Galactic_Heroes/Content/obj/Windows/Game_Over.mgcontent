@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Game_Over.spritefont</SourceFile>
+  <SourceTime>2018-12-08T13:35:46-03:00</SourceTime>
+  <DestFile>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/bin/Windows/Game_Over.xnb</DestFile>
+  <DestTime>2024-09-16T11:47:57.2654283-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

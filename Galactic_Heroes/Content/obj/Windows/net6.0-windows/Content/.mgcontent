@@ -7,10 +7,12 @@
     <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/bullet.png</File>
     <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Enemy.jpg</File>
     <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Fondo_universo_demo.jpg</File>
+    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Game_Over.spritefont</File>
     <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/nave_espacial.png</File>
     <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Score.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
