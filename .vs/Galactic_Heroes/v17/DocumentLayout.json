@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EMANUEL\\source\\repos\\Galactic_Heroes\\",
+  "WorkspaceRootPath": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E784E03E-560F-417C-8AA2-FEB2A8FFC1EB}|Galactic_Heroes\\Galactic_Heroes.csproj|c:\\users\\emanuel\\source\\repos\\galactic_heroes\\galactic_heroes\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E784E03E-560F-417C-8AA2-FEB2A8FFC1EB}|Galactic_Heroes\\Galactic_Heroes.csproj|solutionrelative:galactic_heroes\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\ArcadeMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\ArcadeMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\StoryMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\StoryMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Camera2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Camera2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Galactic_Heroes\\Enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +50,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Boss.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Boss.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Boss.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:01:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Player.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Player.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Player.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Player.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:58:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoryMode.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\StoryMode.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\StoryMode.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\StoryMode.cs",
+              "RelativeToolTip": "Galactic_Heroes\\StoryMode.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:55:12.495Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Menu.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Menu.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Menu.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:51:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\EMANUEL\\source\\repos\\Galactic_Heroes\\Galactic_Heroes\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Game1.cs",
               "RelativeDocumentMoniker": "Galactic_Heroes\\Game1.cs",
-              "ToolTip": "C:\\Users\\EMANUEL\\source\\repos\\Galactic_Heroes\\Galactic_Heroes\\Game1.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Game1.cs",
               "RelativeToolTip": "Galactic_Heroes\\Game1.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAF4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T03:48:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\GameState.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\GameState.cs",
+              "ToolTip": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\GameState.cs",
+              "RelativeToolTip": "Galactic_Heroes\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:49:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArcadeMode.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\ArcadeMode.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\ArcadeMode.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\ArcadeMode.cs",
+              "RelativeToolTip": "Galactic_Heroes\\ArcadeMode.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAEwJ0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:56:52.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyectil.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Proyectil.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Proyectil.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Proyectil.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Proyectil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:04:42.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Enemigo.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Enemigo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:03:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera2D.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Camera2D.cs",
+              "RelativeDocumentMoniker": "Galactic_Heroes\\Camera2D.cs",
+              "ToolTip": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Camera2D.cs",
+              "RelativeToolTip": "Galactic_Heroes\\Camera2D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:28:54.245Z",
               "EditorCaption": ""
             }
           ]

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Profile>Reach</Profile>
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/bullet.png</File>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Enemy.jpg</File>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Fondo_universo_demo.jpg</File>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Game_Over.spritefont</File>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/nave_espacial.png</File>
-    <File>C:/Users/EMANUEL/source/repos/Galactic_Heroes/Galactic_Heroes/Content/Score.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/bullet.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Enemy.jpg</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Fondo_universo_demo.jpg</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Game_Over.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/MenuFont.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/nave_espacial.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Score.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

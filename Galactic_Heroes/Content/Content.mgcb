@@ -56,6 +56,13 @@
 /processorParam:TextureFormat=Compressed
 /build:Game_Over.spritefont
 
+#begin MenuFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:MenuFont.spritefont
+
 #begin nave_espacial.png
 /importer:TextureImporter
 /processor:TextureProcessor
