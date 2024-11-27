@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Galactic_Heroes.csproj": {}
+    "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Galactic_Heroes.csproj": {
+    "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Galactic_Heroes.csproj",
+        "projectUniqueName": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes.csproj",
         "projectName": "Galactic_Heroes",
-        "projectPath": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Galactic_Heroes.csproj",
+        "projectPath": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes.csproj",
         "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\obj\\",
+        "outputPath": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

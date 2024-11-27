@@ -4,15 +4,29 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/bullet.png</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Enemy.jpg</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Fondo_universo_demo.jpg</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Game_Over.spritefont</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/MenuFont.spritefont</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/nave_espacial.png</File>
-    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Galactic_Heroes/Content/Score.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/../../../../../Downloads/Fast_Enemy.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/../../../../../Downloads/Main_Character.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/../../../../../Downloads/MenuBackground.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/../../../../../Downloads/Normal_Enemy.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/../../../../../Downloads/Tank_Enemy.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/bullet.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/Enemy.jpg</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/Fondo_universo_demo.jpg</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/Game_Over.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/HealthBar.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/Main_Character.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/MenuFont.spritefont</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/nave_espacial.png</File>
+    <File>C:/Users/Ema/source/repos/Emita314/Galactic_Heroes/Content/Score.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File>Fast_Enemy.png</File>
+    <File>Main_Character.png</File>
+    <File>MenuBackground.png</File>
+    <File>Normal_Enemy.png</File>
+    <File>Tank_Enemy.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

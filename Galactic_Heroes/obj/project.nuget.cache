@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BexUtE+ce0U=",
+  "dgSpecHash": "wnLVHI+20tg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ema\\Source\\Repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes\\Galactic_Heroes.csproj",
+  "projectFilePath": "C:\\Users\\Ema\\source\\repos\\Emita314\\Galactic_Heroes\\Galactic_Heroes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ema\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Ema\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

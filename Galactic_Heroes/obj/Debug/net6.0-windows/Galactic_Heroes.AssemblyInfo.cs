@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Galactic_Heroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc353c0d1a809bdd0361690d693cdf8aadd16bae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c41b37c3c49bde6f6d81123fd9c6bcf761fd326")]
 [assembly: System.Reflection.AssemblyProductAttribute("Galactic_Heroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Galactic_Heroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
